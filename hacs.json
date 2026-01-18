@@ -1,0 +1,7 @@
+{
+  "name": "LCARS Custom Icons",
+  "filename": "lcars-icons.js",
+  "type": "plugin",
+  "render_readme": true,
+  "description": "Star Trek icons for Home Assistant using the lcars: prefix"
+}
